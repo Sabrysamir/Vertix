@@ -81,3 +81,4 @@ desc_entry.pack()
 tk.Label(root, text="Amount:", font=("Arial", 10)).pack(pady=5)
 amount_entry = tk.Entry(root, width=40)
 amount_entry.pack()
+
